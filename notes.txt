@@ -1,0 +1,5 @@
+Need:
+
+
+Settings tab (default value of dropdown, reset data)
+percentage updates when they are already added
